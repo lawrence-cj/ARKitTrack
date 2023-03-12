@@ -22,6 +22,12 @@ This is a PyTorch implementation of the paper [ARKitTrack: A New Diverse Dataset
   </span>
 </div>
 
+<div class="is-size-5 publication-authors">
+<span class="author-block"><sup>1</sup>Dalian University of Technology, China,</span>
+<span class="author-block"><sup>2</sup>Peng Cheng Laboratory, China</span>
+</div>
+<nobr>(* indicates equal contributions)</nobr>
+
 ### Citation
 ```
 @article{zhao2023arkittrack,
