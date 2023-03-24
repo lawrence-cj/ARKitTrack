@@ -8,6 +8,7 @@
 
 
 This is a PyTorch implementation of the paper [ARKitTrack: A New Diverse Dataset for Tracking Using Mobile RGB-D Data](https://arkittrack.github.io/).Code will be released here.
+Contact at: jschen@mail.dlut.edu.cn
 
 <div class="is-size-5 publication-authors">
   <span class="author-block">
