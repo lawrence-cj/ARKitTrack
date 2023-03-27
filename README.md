@@ -2,7 +2,7 @@
 
 ## [CVPR 2023] ARKitTrack: A New Diverse Dataset for Tracking Using Mobile RGB-D Data
 
-### [Project Page](https://arkittrack.github.io/) |  [arXiv](https://arkittrack.github.io/) |  [PDF](https://github.com/lawrence-cj/ARKitTrack/blob/master/figures/1438_arkittrack_a_new_diverse_datas-Camera-ready%20PDF.pdf)
+### [Project Page](https://arkittrack.github.io/) |  [arXiv](https://arxiv.org/abs/2303.13885)
 ![teaser](figures/data_vis.jpg)
 </div>
 
