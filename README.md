@@ -87,7 +87,7 @@ python tracking/test.py --tracker art --param vitb_384_mae_ce_32x4_ep300 --datas
 - `--debug 1` for visualization.
 - `--dataset`: [depthtrack, cdtb, arkit].
 
-The raw results are stored in [Google Drive](https://drive.google.com/file/d/14jCQTpl3B5oPUuVncV-5R3pWlh7z_T53/view?usp=share_link)
+The raw results are stored in [Google Drive](https://drive.google.com/file/d/14jCQTpl3B5oPUuVncV-5R3pWlh7z_T53/view?usp=share_link).
 ### 4. Training
 Download the pre-trained weights from [Google Drive](https://drive.google.com/file/d/1FVxEnyESw-10A2dvJj2OVzJGC2tFlR1X/view?usp=share_link) and uncompress it to `pretrained_models/`.
 
