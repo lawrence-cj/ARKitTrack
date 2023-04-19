@@ -54,7 +54,7 @@ git clone https://github.com/lawrence-cj/ARKitTrack.git
 cd ARKitTrack
 
 # 2. Create conda env
-conda env create -f art_env.yaml
+conda env create -f art_env.yml
 conda activate art
 
 # 3. Install mmcv-full, mmdet, mmdet3d for the BEV pooling, which is from bevfusion.
@@ -65,7 +65,7 @@ python setup.py develop  # mmdet3d
 ```
 
 ### 2. Set project paths
-Run the following command to set paths for this project
+Run the following command to set paths for this project.
 ```shell
 python tracking/create_default_local_file.py --workspace_dir . --data_dir ./data --save_dir ./output
 ```
@@ -74,7 +74,7 @@ After running this command, you can also modify paths by editing these two files
 
 
 ### 3. Evaluation
-Download our trained models from [Google Drive](https://drive.google.com/file/d/1uNcUSTXDGkegQ_1r5XtHiftnlH7D-eSC/view?usp=share_link) and uncompress them to `checkpoints/`.
+Download our trained models from [Google Drive](https://drive.google.com/file/d/1uNcUSTXDGkegQ_1r5XtHiftnlH7D-eSC/view?usp=share_link) and uncompress them to `output/checkpoints/`.
 
 Change the corresponding dataset paths in `lib/test/evaluation/local.py`.
 
@@ -89,7 +89,9 @@ python tracking/test.py --tracker art --param vitb_384_mae_ce_32x4_ep300 --datas
 
 The raw results are stored in [Google Drive](https://drive.google.com/file/d/14jCQTpl3B5oPUuVncV-5R3pWlh7z_T53/view?usp=share_link)
 ### 4. Training
-Download the pre-trained weights from [Google Drive](https://drive.google.com/file/d/1FVxEnyESw-10A2dvJj2OVzJGC2tFlR1X/view?usp=share_link) and uncompress it to `pretrained_models`.
+Download the pre-trained weights from [Google Drive](https://drive.google.com/file/d/1FVxEnyESw-10A2dvJj2OVzJGC2tFlR1X/view?usp=share_link) and uncompress it to `pretrained_models/`.
+
+Change the corresponding dataset paths in `lib/train/admin/local.py`.
 
 Run the following command to train for vot.
 ```shell
