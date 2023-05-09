@@ -13,7 +13,7 @@ This is a PyTorch implementation of the paper [ARKitTrack: A New Diverse Dataset
   <span class="author-block">
     <a href="https://scholar.google.com/citations?hl=en&user=rk1ozXMAAAAJ">Haojie Zhao</a><sup>*1</sup>,</span>
   <span class="author-block">
-    <a>Junsong Chen</a><sup>*1</sup>,</span>
+    <a href="https://scholar.google.com/citations?hl=en&user=p4zxPP8AAAAJ">Junsong Chen</a><sup>*1</sup>,</span>
   <span class="author-block">
     <a href="http://faculty.dlut.edu.cn/wanglj/zh_CN/index.htm">Lijun Wang</a><sup>1</sup>,
   </span>
