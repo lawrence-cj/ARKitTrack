@@ -35,14 +35,15 @@ Contact at: jschen@mail.dlut.edu.cn, haojie_zhao@mail.dlut.edu.cn
 ---
 ### News
 
-- Data and code for VOS are coming soon ...
+- Train set and code for VOS are coming soon ...
+- [2023/05/09] Release Test sets v1.
 - [2023/04/20] Release code for VOT.
 
 ---
 
 
 ### Dataset
-- VOT_test_set: [[Baidu Drive]](), VOS_test_set: [[Baidu Drive]](), Training_set: [[Baidu Drive]]()
+- VOT_test_set: [[BaiduNetdisk]](https://pan.baidu.com/s/1YzsDDcNFicYOLm-I1xFbVg?pwd=cuuq), VOS_test_set: [[BaiduNetdisk]](https://pan.baidu.com/s/1ahq-n0dPFN9EhTfIF6hchA?pwd=ptgc), Training_set: [[BaiduNetdisk]]
 
 ---
 
