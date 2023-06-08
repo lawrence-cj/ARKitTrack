@@ -35,7 +35,8 @@ Contact at: jschen@mail.dlut.edu.cn, haojie_zhao@mail.dlut.edu.cn
 ---
 ### News
 
-- Train set and code for VOS are coming soon ...
+- Code for VOS is coming soon ...
+- [2023/06/08] Release Train sets v1.
 - [2023/05/09] Release Test sets v1.
 - [2023/04/20] Release code for VOT.
 
@@ -43,7 +44,7 @@ Contact at: jschen@mail.dlut.edu.cn, haojie_zhao@mail.dlut.edu.cn
 
 
 ### Dataset
-- VOT_test_set: [[BaiduNetdisk]](https://pan.baidu.com/s/1YzsDDcNFicYOLm-I1xFbVg?pwd=cuuq), VOS_test_set: [[BaiduNetdisk]](https://pan.baidu.com/s/1ahq-n0dPFN9EhTfIF6hchA?pwd=ptgc), Training_set: [[BaiduNetdisk]]
+- VOT_test_set: [[BaiduNetdisk]](https://pan.baidu.com/s/1tpFZYjRntD-sWwb8gWvJQA?pwd=ijrg), VOS_test_set: [[BaiduNetdisk]](https://pan.baidu.com/s/1VBQ1oLKIw0SVgIREMiZF0Q?pwd=gvy5), All: [[BaiduNetdisk]](https://pan.baidu.com/s/1sbKg5BYw82BAyz6rxgqpxg?pwd=et99)
 
 ---
 
@@ -108,11 +109,13 @@ Thanks for the [OSTrack](https://github.com/botaoye/OSTrack) and [BEVFusion](htt
 
 ### Citation
 ```
-@inproceedings{hjz2023arkittrack,
-      author    = {Haojie Zhao and Junsong Chen and Lijun Wang and Huchuan Lu},
-      title     = {ARKitTrack: A New Diverse Dataset for Tracking Using Mobile RGB-D Data},
-      booktitle = {CVPR},
-      year      = {2023},
+@InProceedings{Zhao_2023_CVPR,
+    author    = {Zhao, Haojie and Chen, Junsong and Wang, Lijun and Lu, Huchuan},
+    title     = {ARKitTrack: A New Diverse Dataset for Tracking Using Mobile RGB-D Data},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {5126-5135}
 }
 ```
 
